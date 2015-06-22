@@ -2,6 +2,9 @@
 
 ### As I learn more about Jupyter and start fill up my bag of tricks, I'll put the nuggets in this project.
 
+## Execute Cells Above Button:
+Shows how to create a Javascript button that will run all the cells in the notebook, above the button.
+
 ## File Picker:
 Shows how to download any file on your Jupyterhub filesystem, starting at your current Notebook's path.
 
