@@ -5,6 +5,13 @@
 ## File Picker:
 Shows how to download any file on your Jupyterhub filesystem, starting at your current Notebook's path.
 
+## SOS Unsaved:
+###Are you working within a Readonly directory on Jupyterhub? Did you forget and make a lot of changes?
+Are you screwed because now all your changes are lost?
+
+### Don't worry. With this little Javascript snippet, you can save all your work to a new notebook called
+`UNSAVED.ipynb`
+
 ## Notebook Cleaner:
 Cleans any notebook in Jupyterhub's current working directory by removing output and execution counts.
 For example, this is how the notebook `Notebook Cleaner.ipynb` looked like
